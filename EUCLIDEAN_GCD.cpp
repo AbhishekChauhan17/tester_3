@@ -20,6 +20,7 @@ long long GCD(long long a, long long b){
 	return GCD(b % a, a);
 }
 
+// just a comment
 int main()
 {
 	io;
